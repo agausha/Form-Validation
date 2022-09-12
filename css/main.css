@@ -40,7 +40,6 @@ input {
 input:valid {
   border: 1px solid hsl(106deg, 89%, 48%);
 }
-
 .container {
   width: 480px;
   height: 630px;
