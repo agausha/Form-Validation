@@ -27,5 +27,7 @@ input {
     border: 1px solid $color-primary-valid;
   }
 
-  &:invalid {}
+  &:invalid {
+    border: 1px solid $color-primary-invalid;
+  }
 }
