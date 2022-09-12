@@ -18,6 +18,10 @@ form {
   width: 90%;
 }
 
+.form-group {
+  height: 65px;
+}
+
 .container {
   width: 480px;
   height: 630px;
