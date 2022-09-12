@@ -20,4 +20,5 @@ body {
   background: hsl(0deg, 0%, 100%);
   display: flex;
   flex-direction: column;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
