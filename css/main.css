@@ -49,6 +49,7 @@ button {
   color: hsl(0deg, 0%, 100%);
   background: hsl(0deg, 0%, 0%);
   border: none;
+  border-radius: 5px;
 }
 
 .container {
