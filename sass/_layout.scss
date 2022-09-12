@@ -10,3 +10,19 @@
   border-radius: 10px;
   box-shadow: 0 5px 30px 10px $color-primary-box-shadow;
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: LARGE SMARTPHONE (VERTICAL)
+@media screen and (max-width: 600px) {
+  .container {
+    min-width: unset;
+    width: 95vw;
+    min-height: 245px;
+    padding: 20px;
+    margin: 10px;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+}
