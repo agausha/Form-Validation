@@ -51,5 +51,7 @@ button {
     background: $color-primary-hover;
   }
 
-  &:focus {}
+  &:focus {
+    outline: none;
+  }
 }
