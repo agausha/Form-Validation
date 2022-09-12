@@ -20,4 +20,6 @@ input {
   border: 1px solid $color-primary-black;
   border-radius: $border-radius;
   outline: none;
+  box-sizing: border-box;
+  transition: all 0.3s;
 }
