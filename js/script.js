@@ -44,6 +44,8 @@ function validateForm() {
   }
 }
 
+function storeFormData() {}
+
 function processFormData(e) {
   e.preventDefault();
   // Validate Form
