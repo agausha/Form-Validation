@@ -71,6 +71,7 @@ button:focus {
   width: 90%;
   margin-top: 20px;
   display: flex;
+  justify-content: center;
 }
 
 .container {
