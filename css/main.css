@@ -61,7 +61,6 @@ button:hover {
   filter: brightness(200%);
   background: hsl(0deg, 0%, 9%);
 }
-
 .container {
   width: 480px;
   height: 630px;

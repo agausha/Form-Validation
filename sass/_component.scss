@@ -50,4 +50,6 @@ button {
     filter: brightness(200%);
     background: $color-primary-hover;
   }
+
+  &:focus {}
 }
