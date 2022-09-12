@@ -37,7 +37,6 @@ input {
   box-sizing: border-box;
   transition: all 0.3s;
 }
-
 .container {
   width: 480px;
   height: 630px;
