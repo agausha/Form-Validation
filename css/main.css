@@ -44,6 +44,10 @@ input:invalid {
   border: 1px solid hsl(0deg, 83%, 55%);
 }
 
+button {
+  cursor: pointer;
+}
+
 .container {
   width: 480px;
   height: 630px;
