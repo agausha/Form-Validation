@@ -65,6 +65,10 @@ button:focus {
   outline: none;
 }
 
+.message-container {
+  border: 1px solid hsl(0deg, 0%, 0%);
+}
+
 .container {
   width: 480px;
   height: 630px;
