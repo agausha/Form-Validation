@@ -7,3 +7,6 @@ const message = document.getElementById('message');
 // GLOBAL VARIABLES
 let isValid = false;
 let passwordsMatch = false;
+
+// Event Listener
+form.addEventListener('submit', processFormData);
