@@ -17,4 +17,5 @@ body {
 .container {
   width: 480px;
   height: 630px;
+  background: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
