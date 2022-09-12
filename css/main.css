@@ -22,6 +22,10 @@ form {
   height: 65px;
 }
 
+label {
+  position: relative;
+}
+
 .container {
   width: 480px;
   height: 630px;
