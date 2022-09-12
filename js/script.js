@@ -8,5 +8,7 @@ const message = document.getElementById('message');
 let isValid = false;
 let passwordsMatch = false;
 
+function processFormData(e) {}
+
 // Event Listener
 form.addEventListener('submit', processFormData);
