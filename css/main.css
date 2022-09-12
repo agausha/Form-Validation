@@ -18,4 +18,5 @@ body {
   width: 480px;
   height: 630px;
   background: hsl(0deg, 0%, 100%);
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
