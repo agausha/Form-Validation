@@ -10,6 +10,8 @@ let passwordsMatch = false;
 
 function processFormData(e) {
   e.preventDefault();
+  // Validate Form
+  validateForm();
 }
 
 // Event Listener
