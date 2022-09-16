@@ -4,7 +4,7 @@ const password2El = document.getElementById('password2');
 const messageContainer = document.querySelector('.message-container');
 const message = document.getElementById('message');
 
-// GLOBAL VARIABLES
+// GLOBAL BOOLEAN
 let isValid = false;
 let passwordsMatch = false;
 
